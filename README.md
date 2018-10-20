@@ -1,2 +1,9 @@
-# Python-Modules
-The Repository contains the code to some useful python modules that are not publicly available.
+### Python-Modules
+## Contributors
+-Saurabh Singh <saurabhs1206@gmail.com>
+---
+## License & Copyright
+© Saurabh Singh, Delhi Technological University.
+Licensed under the [MIT License](LICENSE).
+
+
